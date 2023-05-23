@@ -1,10 +1,11 @@
 #btn{
 	background-color:black;
 	color:white;
-	border: 0px none rgb(255, 255, 255):
+	
+	border:2px outset rgb(118, 118, 118);
 	border-radius:5px;
 }
 input:hoever{
 	background-color:yellow;
-	border:2px outset rgb(118, 118, 118);
+	
 }
