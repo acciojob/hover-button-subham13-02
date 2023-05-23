@@ -2,10 +2,9 @@
 	background-color:black;
 	color:white;
 	
-	border:2px outset rgb(118, 118, 118);
 	border-radius:5px;
 }
-input:hoever{
+input:hoever{\
+	border: 0px none rgb(255, 255, 255):
 	background-color:yellow;
-	
 }
